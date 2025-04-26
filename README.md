@@ -42,7 +42,7 @@ This project implements a simple Dino Jump game using the LPC2138 ARM7 microcont
 ## Getting Started
 
 1. Open the `.pdsprj` file in Proteus or the project in Keil.
-2. Wire the LCD and button to the LPC2148 as per schematic.
+2. Wire the LCD and button to the LPC2138 as per schematic.
 3. Compile and flash the code to the board.
 4. Press the jump button to avoid cactus and score points.
 
