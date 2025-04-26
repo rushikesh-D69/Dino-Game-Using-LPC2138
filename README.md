@@ -45,8 +45,8 @@ This project implements a simple Dino Jump game using the LPC2148 ARM7 microcont
 
 ## Authors
 
-- Rushikesh D. – ECE Department, LPU  
-- Chandan Sai Pavan – ECE Department, LPU
+- Rushikesh D. – ECE Department, ASEB
+- Chandan Sai Pavan – ECE Department, ASEB
 
 ## License
 
