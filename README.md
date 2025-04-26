@@ -17,6 +17,9 @@ This project implements a simple Dino Jump game using the LPC2148 ARM7 microcont
 - A button press triggers the jump sequence
 - Game resets or halts on collision
 
+- ![image](https://github.com/user-attachments/assets/9a4477d0-7c5a-468c-b357-c3f706511eee)
+
+
 ## Hardware Requirements
 
 - LPC2148 Development Board
