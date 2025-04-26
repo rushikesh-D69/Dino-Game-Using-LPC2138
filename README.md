@@ -37,7 +37,7 @@ This project implements a simple Dino Jump game using the LPC2148 ARM7 microcont
 
 - `src/` – Source code
 - `project/` – Simulation/project files
-- `assets/` – Images or schematics (optional)
+
 
 ## Getting Started
 
