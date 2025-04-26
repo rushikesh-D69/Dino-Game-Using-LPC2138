@@ -1,6 +1,6 @@
-# Dino Jump Game on LPC2148 with Character LCD
+# Dino Jump Game on LPC2138 with Character LCD
 
-This project implements a simple Dino Jump game using the LPC2148 ARM7 microcontroller and a 16x2 character LCD. The game mimics the classic side-scrolling dinosaur game, with jump controls, scoring, and obstacle collision logic.
+This project implements a simple Dino Jump game using the LPC2138 ARM7 microcontroller and a 16x2 character LCD. The game mimics the classic side-scrolling dinosaur game, with jump controls, scoring, and obstacle collision logic.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project implements a simple Dino Jump game using the LPC2148 ARM7 microcont
 
 ## Hardware Requirements
 
-- LPC2148 Development Board
+- LPC2138 Development Board
 - 16x2 Character LCD
 - Push Button for jump
 - Resistors, wires, and breadboard
